@@ -10,7 +10,7 @@ def get_current_iptables():
 
 def send_email(subject, body):
     email_sender = 'mananmanucharian@gmail.com'
-    email_password = 'bjkuzoxvsoetct'
+    email_password = 'bjkuzoxvsthisisnotcorrectoetct'
     email_receiver = 'manucharyanmanan6@gmail.com'
 
     em = EmailMessage()
